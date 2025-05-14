@@ -1,7 +1,15 @@
 ﻿body
 {
     font-family:"Segoe UI",Tahoma,sans-serif;
+    background-color:peachpuff;
 } 
 p {
 color:navy;
+}
+.sale_{
+    font-weight: bold;
+    background-color:aqua;
+}
+#sidenote {
+    background-color:grey;
 }
