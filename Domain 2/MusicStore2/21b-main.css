@@ -13,3 +13,10 @@ color:navy;
 #sidenote {
     background-color:grey;
 }
+a:hover{
+    text-decoration: none;
+}
+a:hover {
+    text-decoration:underline;
+    font-weight: bold;
+}
