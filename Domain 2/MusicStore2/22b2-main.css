@@ -13,3 +13,10 @@ p {
 #sidenote {
     background-color:rgb(87, 196, 240);
 }
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration:underline;
+    font-weight: bold;
+}
