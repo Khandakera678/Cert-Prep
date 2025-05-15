@@ -6,7 +6,7 @@
 p {
     color: navy;
 }
-a {
+a:hover{
     text-decoration: none;
 }
 a:hover {
